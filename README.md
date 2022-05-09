@@ -1,6 +1,6 @@
 # Ecommerce---Rest-API
 
-It is basic Rest API for Ecommerce websites developed using technologies: 
+* It is basic Rest API for Ecommerce websites developed using technologies: 
 
 language - Java     
 IDE - Java EE    
@@ -11,5 +11,5 @@ Server - Apache Tomcat
 
 * It uses Rest concept so no front-end is added.
 
-*It supports CRUD operations for ecommerce websites which are mapped to specific endpoints.
+* It supports CRUD operations for ecommerce websites which are mapped to specific endpoints.
 
