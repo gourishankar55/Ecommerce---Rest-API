@@ -1,6 +1,7 @@
 # Ecommerce---Rest-API
 
-# It is basic Rest API for Ecommerce websites developed using technologies: 
+It is basic Rest API for Ecommerce websites developed using technologies: 
+
 language - Java     
 IDE - Java EE    
 Database - Mysql      
