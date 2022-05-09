@@ -1,6 +1,12 @@
 # Ecommerce---Rest-API
 
-# It is basic Rest API for Ecommerce websites developed using technologies: Java,SpringBoot,Mysql,Xampp,Postman.
+# It is basic Rest API for Ecommerce websites developed using technologies: 
+language - Java
+IDE - Java EE
+Database - Mysql
+Framework - SpringBoot
+Application - Postman,Xampp
+Server - Apache Tomcat
 
 # It uses Rest concept so no front-end is added.
 
