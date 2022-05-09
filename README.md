@@ -1,4 +1,4 @@
-# Ecommerce---Rest-API
+# Ecommerce-Rest-API
 
 * It is basic Rest API for Ecommerce websites developed using technologies: 
 
