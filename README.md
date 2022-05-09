@@ -9,7 +9,7 @@ Framework - SpringBoot
 Application - Postman,Xampp     
 Server - Apache Tomcat     
 
-# It uses Rest concept so no front-end is added.
+* It uses Rest concept so no front-end is added.
 
-# It supports CRUD operations for ecommerce websites which are mapped to specific endpoints.
+*It supports CRUD operations for ecommerce websites which are mapped to specific endpoints.
 
